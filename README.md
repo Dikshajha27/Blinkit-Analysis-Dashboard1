@@ -55,3 +55,5 @@ Category-wise contribution to total revenue
 Average rating trends
 Rating distribution by outlet
 Correlation between rating & sales
+
+6. Screenshots/Demos(https://github.com/Dikshajha27/Blinkit-Analysis-Dashboard1/blob/main/Screenshot%202026-02-17%20164532.png)
